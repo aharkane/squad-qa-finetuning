@@ -1,0 +1,13 @@
+transformers==4.46.3
+datasets
+evaluate
+accelerate
+torch
+huggingface_hub
+pandas
+numpy
+matplotlib
+tqdm
+streamlit
+pypdf
+sentencepiece

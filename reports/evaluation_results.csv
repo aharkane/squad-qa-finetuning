@@ -1,0 +1,4 @@
+Model,F1,Exact Match,Total time (s),Time/question (ms),Parameters (M)
+squad-distilbert-v2,81.75,72.46,112.4,10.64,66.4
+squad-mobilebert-v2,0.1,0.04,109.3,10.34,24.6
+squad-albert-v2,90.22,83.0,281.3,26.61,11.1
