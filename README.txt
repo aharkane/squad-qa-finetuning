@@ -1,7 +1,6 @@
 
 # Fine-tuning Question-Answering Models on SQuAD
 
-> M2 Computer Science Project — Université Paris 8
 
 This project fine-tunes and compares three transformer-based models for extractive Question Answering on the **Stanford Question Answering Dataset (SQuAD v1.1)**:
 
@@ -39,13 +38,10 @@ Evaluated on the official SQuAD v1.1 validation set (10 570 examples):
 
 DNF3ED04-Projet-SQuAD_FineTuning/
 ├── data/                    (vide, généré au runtime)
-├── models/                  (vide, généré au runtime, mais on garde le dossier)
 ├── reports/
 │   ├── evaluation_results.csv
 │   └── comparison.png
 ├── docs/
-│   ├── presentation.pptx    (à venir)
-│   └── video_link.md        (lien vers la vidéo)
 ├── notebooks/
 │   ├── 00_environment_setup.ipynb
 │   ├── 01_data_exploration.ipynb
